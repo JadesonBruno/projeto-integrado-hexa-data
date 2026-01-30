@@ -1,0 +1,28 @@
+PROPRIETARY SOFTWARE LICENSE
+INTERNAL USE ONLY
+
+© Copyright 2025 NTT DATA Brazil and Affiliates
+All rights reserved.
+
+This software, including its source code, documentation, pipelines, configurations, and any associated materials (the "Software"), is the exclusive property of NTT DATA Brazil and its Affiliates.
+
+Permission is hereby granted solely to employees, contractors, and authorized partners of NTT DATA Brazil and its Affiliates to use, copy, modify, and execute the Software strictly for internal purposes, including but not limited to:
+- Technical training and professional development
+- Proofs of concept (POCs)
+- Internal experimentation and validation
+- Application of data engineering, analytics, and Databricks-related knowledge in controlled environments
+
+This Software is NOT open source.
+
+The following actions are expressly prohibited without prior written authorization from NTT DATA Brazil:
+- Public distribution or publication of the Software, in whole or in part
+- Disclosure of the Software to third parties outside the authorized scope
+- Use of the Software for external commercial purposes
+- Licensing, sublicensing, selling, leasing, or transferring the Software
+- Uploading the Software to public repositories or platforms
+
+Any unauthorized use, reproduction, or distribution of this Software may result in disciplinary action and/or legal consequences, in accordance with applicable laws and internal corporate policies.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. IN NO EVENT SHALL NTT DATA BRAZIL OR ITS AFFILIATES BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+This License shall be governed by and construed in accordance with the laws applicable to NTT DATA Brazil and its Affiliates.

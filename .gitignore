@@ -232,4 +232,8 @@ pip-selfcheck.json
 .history
 .ionide
 
+### Branch dev-maasilva ###
+Gold/
+Silver/
+
 # End of https://www.toptal.com/developers/gitignore/api/git,visualstudiocode,venv,dotenv,python,jupyternotebooks

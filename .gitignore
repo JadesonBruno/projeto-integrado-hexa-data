@@ -1,3 +1,4 @@
+*.duckdb
 # Created by https://www.toptal.com/developers/gitignore/api/git,visualstudiocode,venv,dotenv,python,jupyternotebooks
 # Edit at https://www.toptal.com/developers/gitignore?templates=git,visualstudiocode,venv,dotenv,python,jupyternotebooks
 

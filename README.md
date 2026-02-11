@@ -582,8 +582,9 @@ projeto-integrado-hexa-data/
     ├── calculator.png                     # Estimativa de custos Azure
 └── docs/
     ├── acelera_grupo_5_calculator.xlsx    # Calculadora em Excel
-    ├── Documentação_tabelas_KPIs.xlsx     # Documentação em Excel das tabelas dos KPI's
-    ├── pbi_final_projeto.pbix             # Arquivo power bi
+    ├── documentacao_tabelas_kpis.xlsx     # Documentação em Excel das tabelas dos KPI's
+└── powerbi/    
+    ├── dashboard_acelera_grupo_5.pbix     # Arquivo power bi
 └── src/
     ├── bronze/
     │   ├── bronze_main.ipynb              # Orquestrador da camada Bronze

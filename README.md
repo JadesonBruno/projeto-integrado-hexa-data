@@ -53,7 +53,7 @@ Todo o processo de **ingestão, tratamento, transformação e disponibilização
 O diagrama abaixo apresenta a arquitetura completa do pipeline de dados:
 
 <p align="center">
-  <img src="arquitetura.png" alt="Arquitetura do Pipeline de Dados" width="100%"/>
+  <img src="pics/arquitetura.png" alt="Arquitetura do Pipeline de Dados" width="100%"/>
 </p>
 
 ### Fluxo Geral
@@ -521,7 +521,7 @@ O notebook também inclui uma **auditoria de qualidade** da tabela bridge, verif
 A imagem abaixo apresenta a **modelagem dimensional** utilizada na camada Gold para otimizar o consumo dos dados no Power BI:
 
 <p align="center">
-  <img src="docs/modelagem.png" alt="Modelagem da Camada Gold" width="100%"/>
+  <img src="pics/modelagem.png" alt="Modelagem da Camada Gold" width="100%"/>
 </p>
 
 ---
@@ -577,10 +577,13 @@ Abaixo estão os custos mensais estimados da infraestrutura Azure utilizada no p
 projeto-integrado-hexa-data/
 ├── README.md                              # Documentação do projeto
 ├── LICENSE                                # Licença do repositório
-├── arquitetura.png                        # Diagrama de arquitetura
-├── calculator.png                         # Estimativa de custos Azure
-├── docs/
-│   └── modelagem.png                      # Modelagem dimensional da camada Gold
+└── pics/
+    ├── arquitetura.png                    # Diagrama de arquitetura
+    ├── calculator.png                     # Estimativa de custos Azure
+└── docs/
+    ├── acelera_grupo_5_calculator.xlsx    # Calculadora em Excel
+    ├── Documentação_tabelas_KPIs.xlsx     # Documentação em Excel das tabelas dos KPI's
+    ├── pbi_final_projeto.pbix             # Arquivo power bi
 └── src/
     ├── bronze/
     │   ├── bronze_main.ipynb              # Orquestrador da camada Bronze
